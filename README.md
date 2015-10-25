@@ -6,6 +6,9 @@ collection of things i've found useful
 - [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
 - [Testing AJAX-reloaded elements with Capybara](https://gist.github.com/metaskills/1172519)
 
+## tools
+- [audiogrep](http://antiboredom.github.io/audiogrep/)
+
 ## APIs
 - [Tone Analyzer (for text)](https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/tone-analyzer.html)
 

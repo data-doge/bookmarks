@@ -12,6 +12,12 @@ collection of things i've found useful
 ## APIs
 - [Tone Analyzer (for text)](https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/tone-analyzer.html)
 
+## websites
+
+## people
+- [sam lavigne](http://lav.io/)
+- [useless press](http://uselesspress.org/)
+
 ## groups
 - [citizen code](http://www.citizencode.io/)
 - [cloud city](http://cloudcity.io/)

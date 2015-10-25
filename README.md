@@ -13,5 +13,8 @@ collection of things i've found useful
 - [citizen code](http://www.citizencode.io/)
 - [cloud city](http://cloudcity.io/)
 
+## talks / presentations
+- [greetings fellow alienated subject of late capitalism](https://vimeo.com/128030788)
+
 ## reading list
 - [Resolving the awkward paradox in Frederic Laloux’s Reinventing Organisations](https://medium.com/@tomnixon/resolving-the-awkward-paradox-in-frederic-laloux-s-reinventing-organisations-f2031080ea02#.y12bo3dff)

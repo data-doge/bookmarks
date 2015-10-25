@@ -9,5 +9,9 @@ collection of things i've found useful
 ## APIs
 - [Tone Analyzer (for text)](https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/tone-analyzer.html)
 
+## groups
+- [citizen code](http://www.citizencode.io/)
+
+
 ## reading list
 - [Resolving the awkward paradox in Frederic Laloux’s Reinventing Organisations](https://medium.com/@tomnixon/resolving-the-awkward-paradox-in-frederic-laloux-s-reinventing-organisations-f2031080ea02#.y12bo3dff)

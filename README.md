@@ -23,6 +23,9 @@ collection of things i've found useful
 - [citizen code](http://www.citizencode.io/)
 - [cloud city](http://cloudcity.io/)
 
+## articles
+- [dan price](http://www.slate.com/blogs/moneybox/2015/10/23/remember_dan_price_of_gravity_payments_who_gave_his_employees_a_70_000_minimum.html)
+
 ## blog posts
 - [the three laws of interaction design](https://medium.com/user-experience-design-1/the-three-laws-of-interaction-design-11912c4bf5dc#.seoso5sl5)
 

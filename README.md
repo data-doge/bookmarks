@@ -23,6 +23,9 @@ collection of things i've found useful
 - [citizen code](http://www.citizencode.io/)
 - [cloud city](http://cloudcity.io/)
 
+## blog posts
+- [the three laws of interaction design](https://medium.com/user-experience-design-1/the-three-laws-of-interaction-design-11912c4bf5dc#.seoso5sl5)
+
 ## talks / presentations
 - [greetings fellow alienated subject of late capitalism](https://vimeo.com/128030788)
 

@@ -19,6 +19,7 @@ collection of things i've found useful
 ## people
 - [sam lavigne](http://lav.io/)
 - [useless press](http://uselesspress.org/)
+- [audrey tang](http://blog.openculture.org/2015/10/12/audrey-tang-brilliant-programmer-hacks-politics-in-taiwan/)
 
 ## groups
 - [citizen code](http://www.citizencode.io/)

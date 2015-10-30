@@ -34,6 +34,6 @@ collection of things i've found cool / useful
 
 ## talks / presentations
 - [greetings fellow alienated subject of late capitalism](https://vimeo.com/128030788)
-
+- [art that lets you talk back to nsa spies](http://www.ted.com/talks/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies)
 ## reading list
 - [Resolving the awkward paradox in Frederic Laloux’s Reinventing Organisations](https://medium.com/@tomnixon/resolving-the-awkward-paradox-in-frederic-laloux-s-reinventing-organisations-f2031080ea02#.y12bo3dff)

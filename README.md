@@ -29,6 +29,8 @@ collection of things i've found cool / useful
 ## articles
 - [dan price](http://www.slate.com/blogs/moneybox/2015/10/23/remember_dan_price_of_gravity_payments_who_gave_his_employees_a_70_000_minimum.html)
 - [What a Deep Neural Network thinks about your #selfie](http://karpathy.github.io/2015/10/25/selfie/)
+- [CultureNotFoundException](http://adanewmedia.org/2015/11/issue8-pine-kazuo/)
+
 
 ## blog posts
 - [the three laws of interaction design](https://medium.com/user-experience-design-1/the-three-laws-of-interaction-design-11912c4bf5dc#.seoso5sl5)
@@ -36,7 +38,9 @@ collection of things i've found cool / useful
 ## talks / presentations
 - [greetings fellow alienated subject of late capitalism](https://vimeo.com/128030788)
 - [art that lets you talk back to nsa spies](http://www.ted.com/talks/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies)
-## reading list
-- [Resolving the awkward paradox in Frederic Laloux’s Reinventing Organisations](https://medium.com/@tomnixon/resolving-the-awkward-paradox-in-frederic-laloux-s-reinventing-organisations-f2031080ea02#.y12bo3dff)
 - [mosquito laser](https://www.youtube.com/watch?v=OM6E3f2lT14)
 - [how to make stress your friend](http://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)
+
+## reading list
+- [Resolving the awkward paradox in Frederic Laloux’s Reinventing Organisations](https://medium.com/@tomnixon/resolving-the-awkward-paradox-in-frederic-laloux-s-reinventing-organisations-f2031080ea02#.y12bo3dff)
+- [brief notes on science](http://www.asymptotejournal.com/nonfiction/goncalo-m-tavares-brief-notes-on-science/)

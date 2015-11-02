@@ -44,3 +44,4 @@ collection of things i've found cool / useful
 ## reading list
 - [Resolving the awkward paradox in Frederic Laloux’s Reinventing Organisations](https://medium.com/@tomnixon/resolving-the-awkward-paradox-in-frederic-laloux-s-reinventing-organisations-f2031080ea02#.y12bo3dff)
 - [brief notes on science](http://www.asymptotejournal.com/nonfiction/goncalo-m-tavares-brief-notes-on-science/)
+- [American Babylon](http://www.amazon.com/American-Babylon-Struggle-Politics-Twentieth-Century/dp/0691124868)

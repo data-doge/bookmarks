@@ -26,6 +26,7 @@ collection of things i've found cool / useful
 - [cloud city](http://cloudcity.io/)
 - [anti eviction mapping project](http://www.antievictionmap.com/)
 - [p2p foundation](http://p2pfoundation.net/Main_Page)
+- [DBIUA](http://fossbytes.com/dbiua-group-of-people-created-their-own-internet-service/)
 
 ## articles
 - [dan price](http://www.slate.com/blogs/moneybox/2015/10/23/remember_dan_price_of_gravity_payments_who_gave_his_employees_a_70_000_minimum.html)

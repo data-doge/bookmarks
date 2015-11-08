@@ -40,6 +40,7 @@ collection of things i've found cool / useful
 
 ## blog posts
 - [the three laws of interaction design](https://medium.com/user-experience-design-1/the-three-laws-of-interaction-design-11912c4bf5dc#.seoso5sl5)
+- [RECONSIDER](https://medium.com/@dhh/reconsider-41adf356857f)
 
 ## talks / presentations
 - [greetings fellow alienated subject of late capitalism](https://vimeo.com/128030788)

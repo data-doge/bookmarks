@@ -1,5 +1,4 @@
-# cool and useful
-collection of things i've found cool / useful
+# bookmarks
 
 ## rails
 - [working with time zones in ruby on rails](http://www.elabs.se/blog/36-working-with-time-zones-in-ruby-on-rails)
@@ -36,7 +35,6 @@ collection of things i've found cool / useful
 - [What a Deep Neural Network thinks about your #selfie](http://karpathy.github.io/2015/10/25/selfie/)
 - [CultureNotFoundException](http://adanewmedia.org/2015/11/issue8-pine-kazuo/)
 - [5 ways to take back tech](http://www.thenation.com/article/5-ways-take-back-tech/)
-
 
 ## blog posts
 - [the three laws of interaction design](https://medium.com/user-experience-design-1/the-three-laws-of-interaction-design-11912c4bf5dc#.seoso5sl5)

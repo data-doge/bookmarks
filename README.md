@@ -51,3 +51,6 @@
 - [Resolving the awkward paradox in Frederic Laloux’s Reinventing Organisations](https://medium.com/@tomnixon/resolving-the-awkward-paradox-in-frederic-laloux-s-reinventing-organisations-f2031080ea02#.y12bo3dff)
 - [brief notes on science](http://www.asymptotejournal.com/nonfiction/goncalo-m-tavares-brief-notes-on-science/)
 - [American Babylon](http://www.amazon.com/American-Babylon-Struggle-Politics-Twentieth-Century/dp/0691124868)
+
+## videos
+- [trading faces optical illusion](https://video-sjc2-1.xx.fbcdn.net/hvideo-xpf1/v/t42.4659-2/12172649_1051723311527171_879109351_n.mp4?oh=5a25679a902d84625337fa5852dae956&oe=5641CE9E)

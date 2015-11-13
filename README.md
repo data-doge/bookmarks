@@ -12,6 +12,9 @@
 - [audiogrep](http://antiboredom.github.io/audiogrep/)
 - [awesome.ai](http://awesome.ai/)
 
+## websites
+- [music for programming](http://musicforprogramming.net/)
+
 ## APIs
 - [Tone Analyzer (for text)](https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/tone-analyzer.html)
 

@@ -54,6 +54,7 @@
 - [art that lets you talk back to nsa spies](http://www.ted.com/talks/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies)
 - [mosquito laser](https://www.youtube.com/watch?v=OM6E3f2lT14)
 - [how to make stress your friend](http://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)
+- [Programming is terrible—Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c)
 
 ## reading list
 - [Resolving the awkward paradox in Frederic Laloux’s Reinventing Organisations](https://medium.com/@tomnixon/resolving-the-awkward-paradox-in-frederic-laloux-s-reinventing-organisations-f2031080ea02#.y12bo3dff)

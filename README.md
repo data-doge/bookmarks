@@ -43,6 +43,7 @@
 - [CultureNotFoundException](http://adanewmedia.org/2015/11/issue8-pine-kazuo/)
 - [5 ways to take back tech](http://www.thenation.com/article/5-ways-take-back-tech/)
 - [what is reputation](http://edge.org/conversation/gloria_origgi-what-is-reputation)
+- [so this is how net neutrality dies](http://motherboard.vice.com/read/so-this-is-how-net-neutrality-dies)
 
 ## blog posts
 - [the three laws of interaction design](https://medium.com/user-experience-design-1/the-three-laws-of-interaction-design-11912c4bf5dc#.seoso5sl5)

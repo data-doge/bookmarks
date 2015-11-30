@@ -8,6 +8,9 @@
 - [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
 - [Testing AJAX-reloaded elements with Capybara](https://gist.github.com/metaskills/1172519)
 
+## pictures 
+- [historical photographs of oakland](http://www.city-data.com/forum/san-francisco-oakland/830406-historical-photographs-oakland.html)
+
 ## taxes
 - [Deductions for Independent Contractors, Freelancers and Self-Employed](https://www.ictaxadvisors.com/business-tax-services/deductions-for-independent-contractors/)
 

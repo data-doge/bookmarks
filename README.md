@@ -52,6 +52,7 @@
 - [what is reputation](http://edge.org/conversation/gloria_origgi-what-is-reputation)
 - [so this is how net neutrality dies](http://motherboard.vice.com/read/so-this-is-how-net-neutrality-dies)
 - [how to deal with imposter syndrome](http://www.nytimes.com/2015/10/26/your-money/learning-to-deal-with-the-impostor-syndrome.html)
+- [what can a technologist do about climate change?](http://worrydream.com/ClimateChange/)
 
 ## blog posts
 - [the three laws of interaction design](https://medium.com/user-experience-design-1/the-three-laws-of-interaction-design-11912c4bf5dc#.seoso5sl5)
@@ -59,6 +60,7 @@
 - [the nod](https://medium.com/matter/the-nod-a-subtle-lowering-of-the-head-to-another-black-person-in-an-overwhelmingly-white-place-e12bfa0f833f)
 - [the thing all women do that you dont know about](http://driftingthrough.com/2015/11/20/the-thing-all-women-do-that-you-dont-know-about/)
 - [lessons for students](https://medium.com/@zachlieberman/lessons-for-students-cf1acf200ee#.c5yiw6flw)
+- [rise of the commons: fundamentals of p2p economies](https://medium.com/enspiral-tales/rise-of-the-commons-fundamentals-of-p2p-economies-f737e6d8adfc#.5vhj70xbm)
 
 ## talks / presentations
 - [greetings fellow alienated subject of late capitalism](https://vimeo.com/128030788)

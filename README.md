@@ -7,6 +7,7 @@
 - [how to write rspec mailer tests](http://vicfriedman.github.io/blog/2013/08/05/how-to-write-rspec-mailer-tests/)
 - [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
 - [Testing AJAX-reloaded elements with Capybara](https://gist.github.com/metaskills/1172519)
+- [How we write readable feature tests with rspec](https://about.futurelearn.com/blog/how-we-write-readable-feature-tests-with-rspec/)
 
 ## pictures 
 - [historical photographs of oakland](http://www.city-data.com/forum/san-francisco-oakland/830406-historical-photographs-oakland.html)

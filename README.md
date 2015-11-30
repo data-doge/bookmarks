@@ -9,7 +9,7 @@
 - [Testing AJAX-reloaded elements with Capybara](https://gist.github.com/metaskills/1172519)
 
 ## taxes
-- [Deductions for Independent Contractors, Freelancers and Self-Employed Part 2](https://www.ictaxadvisors.com/business-tax-services/deductions-independent-contractors-freelancers-self-employed/)
+- [Deductions for Independent Contractors, Freelancers and Self-Employed](https://www.ictaxadvisors.com/business-tax-services/deductions-for-independent-contractors/)
 
 ## tools
 - [audiogrep](http://antiboredom.github.io/audiogrep/)

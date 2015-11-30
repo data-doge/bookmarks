@@ -8,6 +8,9 @@
 - [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
 - [Testing AJAX-reloaded elements with Capybara](https://gist.github.com/metaskills/1172519)
 
+## taxes
+- [Deductions for Independent Contractors, Freelancers and Self-Employed Part 2](https://www.ictaxadvisors.com/business-tax-services/deductions-independent-contractors-freelancers-self-employed/)
+
 ## tools
 - [audiogrep](http://antiboredom.github.io/audiogrep/)
 - [awesome.ai](http://awesome.ai/)

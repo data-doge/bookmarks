@@ -1,5 +1,8 @@
 # bookmarks
 
+## education
+[allaboutcircuits](http://www.allaboutcircuits.com/education/)
+
 ## rails
 - [working with time zones in ruby on rails](http://www.elabs.se/blog/36-working-with-time-zones-in-ruby-on-rails)
 

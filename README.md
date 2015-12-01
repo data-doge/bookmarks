@@ -73,6 +73,7 @@
 - [Programming is terrible—Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c)
 - [JavaScript Masterclass](https://www.youtube.com/watch?v=v0TFmdO4ZP0)
 - [Talks on Platform Cooperativism](http://livestream.com/accounts/686369/events/4438747)
+- [we make excuses for boys and subtly encourage girls to do the same](http://speakola.com/ideas/ken-lay-violence-against-women-2015)
 
 ## reading list
 - [Resolving the awkward paradox in Frederic Laloux’s Reinventing Organisations](https://medium.com/@tomnixon/resolving-the-awkward-paradox-in-frederic-laloux-s-reinventing-organisations-f2031080ea02#.y12bo3dff)

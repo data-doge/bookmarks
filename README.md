@@ -64,6 +64,7 @@
 - [the thing all women do that you dont know about](http://driftingthrough.com/2015/11/20/the-thing-all-women-do-that-you-dont-know-about/)
 - [lessons for students](https://medium.com/@zachlieberman/lessons-for-students-cf1acf200ee#.c5yiw6flw)
 - [rise of the commons: fundamentals of p2p economies](https://medium.com/enspiral-tales/rise-of-the-commons-fundamentals-of-p2p-economies-f737e6d8adfc#.5vhj70xbm)
+- [the surprising secret to being a good boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 
 ## talks / presentations
 - [greetings fellow alienated subject of late capitalism](https://vimeo.com/128030788)

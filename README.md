@@ -2,6 +2,7 @@
 
 ## education
 - [allaboutcircuits](http://www.allaboutcircuits.com/education/)
+- [drawing/painting/sculpting](http://www.beginnersschool.com/)
 
 ## rails
 - [working with time zones in ruby on rails](http://www.elabs.se/blog/36-working-with-time-zones-in-ruby-on-rails)

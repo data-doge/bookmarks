@@ -26,6 +26,7 @@
 - [audiogrep](http://antiboredom.github.io/audiogrep/)
 - [awesome.ai](http://awesome.ai/)
 - [sit](http://www.trysit.co/)
+- [stories on board](http://storiesonboard.com/)
 
 ## websites
 - [music for programming](http://musicforprogramming.net/)

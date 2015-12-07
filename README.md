@@ -22,9 +22,10 @@
 ## taxes
 - [Deductions for Independent Contractors, Freelancers and Self-Employed](https://www.ictaxadvisors.com/business-tax-services/deductions-for-independent-contractors/)
 
-## tools
+## apps
 - [audiogrep](http://antiboredom.github.io/audiogrep/)
 - [awesome.ai](http://awesome.ai/)
+- [sit](http://www.trysit.co/)
 
 ## websites
 - [music for programming](http://musicforprogramming.net/)

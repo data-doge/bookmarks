@@ -10,6 +10,10 @@
 ## rails
 - [working with time zones in ruby on rails](http://www.elabs.se/blog/36-working-with-time-zones-in-ruby-on-rails)
 
+## data visualization
+- [three little circles](http://bost.ocks.org/mike/circles/)
+- [the visual display of quantitative information](http://www.edwardtufte.com/tufte/books_vdqi)
+
 ## threejs
 - [starmap](https://robertsspaceindustries.com/starmap)
 

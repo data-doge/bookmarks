@@ -19,6 +19,7 @@
 
 ## travel
 - [how to live in mansions around the world rent free](http://www.vice.com/read/how-to-live-in-mansions-around-the-world-rent-free-511)
+- [how to travel the world for free](http://www.vice.com/read/how-to-travel-the-world-for-free)
 
 ## specs
 - [how to write rspec mailer tests](http://vicfriedman.github.io/blog/2013/08/05/how-to-write-rspec-mailer-tests/)

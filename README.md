@@ -106,6 +106,7 @@
 - [diaspora](http://www.amazon.com/Diaspora-Greg-Egan-ebook/dp/B00E83YOEI/ref=pd_sim_351_4?ie=UTF8&dpID=41nAhZRf8YL&dpSrc=sims&preST=_AC_UL160_SR122%2C160_&refRID=1N44YMRQZJTSTD5PHM45)
 - [elektrograd: rusted blood](http://www.amazon.com/ELEKTROGRAD-RUSTED-BLOOD-Warren-Ellis-ebook/dp/B013TXJ31G/ref=pd_sim_351_5?ie=UTF8&dpID=41QqUmeOoVL&dpSrc=sims&preST=_AC_UL160_SR107%2C160_&refRID=1N44YMRQZJTSTD5PHM45)
 - [and then i thought i was a fish](http://www.amazon.com/And-Then-Thought-Was-Fish-ebook/dp/B008DZEWF8/ref=pd_sim_351_1?ie=UTF8&dpID=41q7rNZEWkL&dpSrc=sims&preST=_UX300_PJku-sticker-v3%2CTopRight%2C0%2C-44_AC_UL160_SR100%2C160_&refRID=1N44YMRQZJTSTD5PHM45#customerReviews)
+- [throwing rocks at the google bus](http://www.amazon.com/Throwing-Rocks-Google-Bus-Prosperity/dp/1617230170)
 
 ## videos
 - [trading faces optical illusion](https://video-sjc2-1.xx.fbcdn.net/hvideo-xpf1/v/t42.4659-2/12172649_1051723311527171_879109351_n.mp4?oh=5a25679a902d84625337fa5852dae956&oe=5641CE9E)

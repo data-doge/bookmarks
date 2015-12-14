@@ -67,6 +67,7 @@
 - [School for Poetic Computation](http://sfpc.io/)
 - [ouishare](http://ouishare.net/en/about)
 - [openai](https://openai.com/blog/introducing-openai/)
+- [devs without borders](http://www.devswithoutborders.org/)
 
 ## articles
 - [dan price](http://www.slate.com/blogs/moneybox/2015/10/23/remember_dan_price_of_gravity_payments_who_gave_his_employees_a_70_000_minimum.html)

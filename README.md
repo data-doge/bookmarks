@@ -88,6 +88,7 @@
 - [lessons for students](https://medium.com/@zachlieberman/lessons-for-students-cf1acf200ee#.c5yiw6flw)
 - [rise of the commons: fundamentals of p2p economies](https://medium.com/enspiral-tales/rise-of-the-commons-fundamentals-of-p2p-economies-f737e6d8adfc#.5vhj70xbm)
 - [the surprising secret to being a good boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
+- [programmer interrupted](http://blog.ninlabs.com/2013/01/programmer-interrupted/)
 
 ## talks / presentations
 - [greetings fellow alienated subject of late capitalism](https://vimeo.com/128030788)

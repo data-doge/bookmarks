@@ -6,6 +6,7 @@
 
 ## styling
 - [flexboxfroggy](http://flexboxfroggy.com/)
+- [custom fonts in emails](https://gist.github.com/anotheruiguy/7379570)
 
 ## rails
 - [working with time zones in ruby on rails](http://www.elabs.se/blog/36-working-with-time-zones-in-ruby-on-rails)

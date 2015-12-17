@@ -3,6 +3,7 @@
 ## education
 - [allaboutcircuits](http://www.allaboutcircuits.com/education/)
 - [drawing/painting/sculpting](http://www.beginnersschool.com/)
+- [paralleltext.io](http://paralleltext.io/)
 
 ## styling
 - [flexboxfroggy](http://flexboxfroggy.com/)

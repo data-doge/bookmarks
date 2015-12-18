@@ -52,12 +52,14 @@
 
 ## projects
 - [interactive webgl music video](https://iwillneverletyougo.com/#)
+- [listentree](http://listentree.media.mit.edu/)
 
 ## people
 - [sam lavigne](http://lav.io/)
 - [useless press](http://uselesspress.org/)
 - [audrey tang](http://blog.openculture.org/2015/10/12/audrey-tang-brilliant-programmer-hacks-politics-in-taiwan/)
 - [lining yao](http://tangible.media.mit.edu/person/lining-yao/)
+- [xiao xiao](http://portfolio.xiaosquared.com/)
 
 ## groups
 - [citizen code](http://www.citizencode.io/)

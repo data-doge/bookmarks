@@ -4,6 +4,8 @@
 - [allaboutcircuits](http://www.allaboutcircuits.com/education/)
 - [drawing/painting/sculpting](http://www.beginnersschool.com/)
 - [paralleltext.io](http://paralleltext.io/)
+- [project euler](https://projecteuler.net/)
+- [smash the stack](http://smashthestack.org/)
 
 ## styling
 - [flexboxfroggy](http://flexboxfroggy.com/)

@@ -87,6 +87,7 @@
 - [how to deal with imposter syndrome](http://www.nytimes.com/2015/10/26/your-money/learning-to-deal-with-the-impostor-syndrome.html)
 - [what can a technologist do about climate change?](http://worrydream.com/ClimateChange/)
 - [the moral failure of computer scientists](http://www.theatlantic.com/technology/archive/2015/12/the-moral-failure-of-computer-science/420012/)
+- [Hierarchy is Detrimental for Human Cooperation](http://www.nature.com/articles/srep18634)
 
 ## blog posts
 - [the three laws of interaction design](https://medium.com/user-experience-design-1/the-three-laws-of-interaction-design-11912c4bf5dc#.seoso5sl5)

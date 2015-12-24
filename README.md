@@ -7,12 +7,11 @@
 - [project euler](https://projecteuler.net/)
 - [smash the stack](http://smashthestack.org/)
 
-## styling
+## programming
 - [flexboxfroggy](http://flexboxfroggy.com/)
 - [custom fonts in emails](https://gist.github.com/anotheruiguy/7379570)
-
-## rails
 - [working with time zones in ruby on rails](http://www.elabs.se/blog/36-working-with-time-zones-in-ruby-on-rails)
+- [coding your emails](https://www.campaignmonitor.com/dev-resources/guides/coding/)
 
 ## data visualization
 - [three little circles](http://bost.ocks.org/mike/circles/)

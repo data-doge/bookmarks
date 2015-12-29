@@ -87,6 +87,7 @@
 - [what can a technologist do about climate change?](http://worrydream.com/ClimateChange/)
 - [the moral failure of computer scientists](http://www.theatlantic.com/technology/archive/2015/12/the-moral-failure-of-computer-science/420012/)
 - [Hierarchy is Detrimental for Human Cooperation](http://www.nature.com/articles/srep18634)
+- [the birth and death of privacy: 3,000 years of history told through 46 images](https://medium.com/the-ferenstein-wire/the-birth-and-death-of-privacy-3-000-years-of-history-in-50-images-614c26059e#.zhzw9y7ok)
 
 ## blog posts
 - [the three laws of interaction design](https://medium.com/user-experience-design-1/the-three-laws-of-interaction-design-11912c4bf5dc#.seoso5sl5)

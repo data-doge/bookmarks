@@ -6,7 +6,8 @@
 - [paralleltext.io](http://paralleltext.io/)
 - [project euler](https://projecteuler.net/)
 - [smash the stack](http://smashthestack.org/)
-
+- [personal finance](https://www.reddit.com/r/personalfinance/comments/3z0rid/need_a_2016_new_years_resolution_watch_these/)
+- 
 ## programming
 - [flexboxfroggy](http://flexboxfroggy.com/)
 - [custom fonts in emails](https://gist.github.com/anotheruiguy/7379570)

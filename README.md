@@ -57,6 +57,7 @@
 - [listentree](http://listentree.media.mit.edu/)
 - [glass jar](http://glassjarapp.com/)
 - [flat mate](http://mate-apps.com/)
+- [webtorrent](https://webtorrent.io/)
 
 ## people
 - [sam lavigne](http://lav.io/)

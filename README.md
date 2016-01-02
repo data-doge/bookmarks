@@ -59,6 +59,7 @@
 - [glass jar](http://glassjarapp.com/)
 - [flat mate](http://mate-apps.com/)
 - [webtorrent](https://webtorrent.io/)
+- [codevember](http://mattdesl.github.io/codevember/)
 
 ## people
 - [sam lavigne](http://lav.io/)

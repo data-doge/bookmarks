@@ -94,6 +94,7 @@
 - [Hierarchy is Detrimental for Human Cooperation](http://www.nature.com/articles/srep18634)
 - [the birth and death of privacy: 3,000 years of history told through 46 images](https://medium.com/the-ferenstein-wire/the-birth-and-death-of-privacy-3-000-years-of-history-in-50-images-614c26059e#.zhzw9y7ok)
 - [the most critical factor in medicine? human bias](http://ideas.ted.com/the-most-critical-factor-in-medicine-human-bias/?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=ideas-blog&utm_term=science)
+- [the essence of peopling](http://www.ribbonfarm.com/2015/04/08/the-essence-of-peopling/)
 
 ## blog posts
 - [the three laws of interaction design](https://medium.com/user-experience-design-1/the-three-laws-of-interaction-design-11912c4bf5dc#.seoso5sl5)

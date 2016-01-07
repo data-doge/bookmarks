@@ -13,6 +13,7 @@
 - [custom fonts in emails](https://gist.github.com/anotheruiguy/7379570)
 - [working with time zones in ruby on rails](http://www.elabs.se/blog/36-working-with-time-zones-in-ruby-on-rails)
 - [coding your emails](https://www.campaignmonitor.com/dev-resources/guides/coding/)
+- [css support for email clients guide](https://www.campaignmonitor.com/css/)
 
 ## data visualization
 - [three little circles](http://bost.ocks.org/mike/circles/)

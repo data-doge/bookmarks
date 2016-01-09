@@ -17,6 +17,7 @@
 
 ## psychology
 - [rumination](https://www.wikiwand.com/en/Rumination_(psychology))
+- [explanatory style](https://www.wikiwand.com/en/Explanatory_style)
 
 ## data visualization
 - [three little circles](http://bost.ocks.org/mike/circles/)

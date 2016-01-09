@@ -15,6 +15,9 @@
 - [coding your emails](https://www.campaignmonitor.com/dev-resources/guides/coding/)
 - [css support for email clients guide](https://www.campaignmonitor.com/css/)
 
+## psychology
+- [rumination](https://www.wikiwand.com/en/Rumination_(psychology))
+
 ## data visualization
 - [three little circles](http://bost.ocks.org/mike/circles/)
 - [the visual display of quantitative information](http://www.edwardtufte.com/tufte/books_vdqi)

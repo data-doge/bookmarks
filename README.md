@@ -22,7 +22,7 @@
 ## data visualization
 - [three little circles](http://bost.ocks.org/mike/circles/)
 - [the visual display of quantitative information](http://www.edwardtufte.com/tufte/books_vdqi)
-- [a day in the life of americans](http://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/)
+- [a day in the life of americans](http://flowiangdata.com/2015/12/15/a-day-in-the-life-of-americans/)
 
 ## threejs
 - [starmap](https://robertsspaceindustries.com/starmap)
@@ -52,6 +52,7 @@
 - [20 day stranger](http://20daystranger.com/)
 - [123D](http://www.123dapp.com/catch)
 - [tasker](http://www.taskerapp.com/)
+- [asoftmurmur](http://asoftmurmur.com/)
 
 ## websites
 - [music for programming](http://musicforprogramming.net/)

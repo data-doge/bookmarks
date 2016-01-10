@@ -14,6 +14,7 @@
 - [working with time zones in ruby on rails](http://www.elabs.se/blog/36-working-with-time-zones-in-ruby-on-rails)
 - [coding your emails](https://www.campaignmonitor.com/dev-resources/guides/coding/)
 - [css support for email clients guide](https://www.campaignmonitor.com/css/)
+- [12 things you must know when developing for gmail and gmail mobile apps](https://www.emailonacid.com/blog/article/email-development/12_things_you_must_know_when_developing_for_gmail_and_gmail_mobile_apps)
 
 ## psychology
 - [rumination](https://www.wikiwand.com/en/Rumination_(psychology))

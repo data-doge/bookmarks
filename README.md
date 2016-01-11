@@ -76,6 +76,7 @@
 - [audrey tang](http://blog.openculture.org/2015/10/12/audrey-tang-brilliant-programmer-hacks-politics-in-taiwan/)
 - [lining yao](http://tangible.media.mit.edu/person/lining-yao/)
 - [xiao xiao](http://portfolio.xiaosquared.com/)
+- [mr doob](http://mrdoob.com/)
 
 ## groups
 - [citizen code](http://www.citizencode.io/)

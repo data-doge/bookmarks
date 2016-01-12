@@ -16,6 +16,7 @@
 - [css support for email clients guide](https://www.campaignmonitor.com/css/)
 - [12 things you must know when developing for gmail and gmail mobile apps](https://www.emailonacid.com/blog/article/email-development/12_things_you_must_know_when_developing_for_gmail_and_gmail_mobile_apps)
 - [css reset for emails](http://templates.mailchimp.com/development/css/reset-styles/)
+- [omfg VML?](http://stackoverflow.com/questions/7405493/rounded-corners-in-outlook-without-images)
 
 ## psychology
 - [rumination](https://www.wikiwand.com/en/Rumination_(psychology))

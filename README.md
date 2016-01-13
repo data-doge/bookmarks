@@ -18,6 +18,7 @@
 - [css reset for emails](http://templates.mailchimp.com/development/css/reset-styles/)
 - [omfg VML?](http://stackoverflow.com/questions/7405493/rounded-corners-in-outlook-without-images)
 - [email design guidelines](https://www.campaignmonitor.com/dev-resources/will-it-work/guidelines/)
+- [email off by 1px (outlook/webkit)](https://www.campaignmonitor.com/forums/topic/7376/view/page/2/#p30468)
 
 ## psychology
 - [rumination](https://www.wikiwand.com/en/Rumination_(psychology))

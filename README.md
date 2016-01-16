@@ -53,6 +53,8 @@
 - [micronesia](http://www.micronesia.ch/)
 - [1080p](http://1080pcollection.net/)
 - [lobster theremin](http://lobstertheremin.com/)
+- [opal tapes](https://opaltapes.bandcamp.com/)
+- [appian sounds](http://appiansounds.com/)
 
 ## apps
 - [audiogrep](http://antiboredom.github.io/audiogrep/)

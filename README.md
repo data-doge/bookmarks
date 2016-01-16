@@ -49,6 +49,9 @@
 ## taxes
 - [Deductions for Independent Contractors, Freelancers and Self-Employed](https://www.ictaxadvisors.com/business-tax-services/deductions-for-independent-contractors/)
 
+## labels
+- [micronesia](http://www.micronesia.ch/)
+
 ## apps
 - [audiogrep](http://antiboredom.github.io/audiogrep/)
 - [awesome.ai](http://awesome.ai/)

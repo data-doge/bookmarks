@@ -51,6 +51,8 @@
 
 ## labels
 - [micronesia](http://www.micronesia.ch/)
+- [1080p](http://1080pcollection.net/)
+- [lobster theremin](http://lobstertheremin.com/)
 
 ## apps
 - [audiogrep](http://antiboredom.github.io/audiogrep/)

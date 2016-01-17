@@ -18,7 +18,7 @@
 - [css reset for emails](http://templates.mailchimp.com/development/css/reset-styles/)
 - [omfg VML?](http://stackoverflow.com/questions/7405493/rounded-corners-in-outlook-without-images)
 - [email design guidelines](https://www.campaignmonitor.com/dev-resources/will-it-work/guidelines/)
-- [table cell off by 1px (outlook/webkit)](https://www.campaignmonitor.com/forums/topic/7376/view/page/2/#p30468)
+- [table cell off by 1px (outlook/webkit)](httpaps://www.campaignmonitor.com/forums/topic/7376/view/page/2/#p30468)
 
 ## psychology
 - [rumination](https://www.wikiwand.com/en/Rumination_(psychology))
@@ -67,6 +67,7 @@
 - [tasker](http://www.taskerapp.com/)
 - [asoftmurmur](http://asoftmurmur.com/)
 - [cushion](http://cushionapp.com/)
+- [DOM destroyer](https://chrome.google.com/webstore/detail/dom-destroyer/cgkjfaoibdibeghgeplabcbineebklgf?hl=en)
 
 ## websites
 - [music for programming](http://musicforprogramming.net/)

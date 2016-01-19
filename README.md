@@ -68,6 +68,7 @@
 - [asoftmurmur](http://asoftmurmur.com/)
 - [cushion](http://cushionapp.com/)
 - [DOM destroyer](https://chrome.google.com/webstore/detail/dom-destroyer/cgkjfaoibdibeghgeplabcbineebklgf?hl=en)
+- [patchwork](http://ssbc.github.io/patchwork/)
 
 ## websites
 - [music for programming](http://musicforprogramming.net/)

@@ -92,6 +92,7 @@
 - [lining yao](http://tangible.media.mit.edu/person/lining-yao/)
 - [xiao xiao](http://portfolio.xiaosquared.com/)
 - [mr doob](http://mrdoob.com/)
+- [nassim nicholas taleb](https://www.wikiwand.com/en/Nassim_Nicholas_Taleb)
 
 ## groups
 - [citizen code](http://www.citizencode.io/)

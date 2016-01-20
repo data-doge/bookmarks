@@ -84,6 +84,7 @@
 - [flat mate](http://mate-apps.com/)
 - [webtorrent](https://webtorrent.io/)
 - [codevember](http://mattdesl.github.io/codevember/)
+- [TrumpScript](http://devpost.com/software/trumpscript)
 
 ## people
 - [sam lavigne](http://lav.io/)

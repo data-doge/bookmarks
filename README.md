@@ -127,6 +127,7 @@
 - [here's why penny wong will never be prime minister](http://www.buzzfeed.com/lanesainty/penny-wong-on-marriage-equality-and-not-wanting-to-be-pm#.inVr8R2mZa)
 - [the big sleep](http://www.canberratimes.com.au/interactive/2016/the-big-sleep/)
 - [life is short](http://paulgraham.com/vb.html)
+- [11 must read books that will make you a better learner](http://www.inc.com/quora/11-must-read-books-that-will-make-you-a-better-learner.html)
 
 ## blog posts
 - [the three laws of interaction design](https://medium.com/user-experience-design-1/the-three-laws-of-interaction-design-11912c4bf5dc#.seoso5sl5)

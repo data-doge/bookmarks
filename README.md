@@ -19,6 +19,7 @@
 - [omfg VML?](http://stackoverflow.com/questions/7405493/rounded-corners-in-outlook-without-images)
 - [email design guidelines](https://www.campaignmonitor.com/dev-resources/will-it-work/guidelines/)
 - [table cell off by 1px (outlook/webkit)](httpaps://www.campaignmonitor.com/forums/topic/7376/view/page/2/#p30468)
+- [npm cheat sheet](http://browsenpm.org/help)
 
 ## psychology
 - [rumination](https://www.wikiwand.com/en/Rumination_(psychology))

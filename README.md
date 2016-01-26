@@ -20,6 +20,7 @@
 - [email design guidelines](https://www.campaignmonitor.com/dev-resources/will-it-work/guidelines/)
 - [table cell off by 1px outlook/webkit](https://www.campaignmonitor.com/forums/topic/7376/view/page/2/#p30468)
 - [npm cheat sheet](http://browsenpm.org/help)
+- [a successful git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 
 ## psychology
 - [rumination](https://www.wikiwand.com/en/Rumination_(psychology))

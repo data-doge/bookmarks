@@ -57,6 +57,7 @@
 - [lobster theremin](http://lobstertheremin.com/)
 - [opal tapes](https://opaltapes.bandcamp.com/)
 - [appian sounds](http://appiansounds.com/)
+- [natural sciences](https://naturalsciences.bandcamp.com/)
 
 ## appswe
 - [audiogrep](http://antiboredom.github.io/audiogrep/)

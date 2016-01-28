@@ -59,7 +59,7 @@
 - [appian sounds](http://appiansounds.com/)
 - [natural sciences](https://naturalsciences.bandcamp.com/)
 
-## appswe
+## apps
 - [audiogrep](http://antiboredom.github.io/audiogrep/)
 - [awesome.ai](http://awesome.ai/)
 - [sit](http://www.trysit.co/)
@@ -90,6 +90,7 @@
 - [webtorrent](https://webtorrent.io/)
 - [codevember](http://mattdesl.github.io/codevember/)
 - [TrumpScript](http://devpost.com/software/trumpscript)
+- [askcat.guru](http://askcat.guru/)
 
 ## people
 - [sam lavigne](http://lav.io/)

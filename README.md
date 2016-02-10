@@ -75,6 +75,7 @@
 - [patchwork](http://ssbc.github.io/patchwork/)
 - [coglode](http://coglode.com/)
 - [ring](https://ring.cx/)
+- [joblint](http://joblint.org/)
 
 ## websites
 - [music for programming](http://musicforprogramming.net/)
@@ -139,6 +140,7 @@
 - [the big sleep](http://www.canberratimes.com.au/interactive/2016/the-big-sleep/)
 - [life is short](http://paulgraham.com/vb.html)
 - [11 must read books that will make you a better learner](http://www.inc.com/quora/11-must-read-books-that-will-make-you-a-better-learner.html)
+- [the original net artists](http://motherboard.vice.com/read/the-original-net-artists)
 
 ## blog posts
 - [the three laws of interaction design](https://medium.com/user-experience-design-1/the-three-laws-of-interaction-design-11912c4bf5dc#.seoso5sl5)

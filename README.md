@@ -141,6 +141,7 @@
 - [life is short](http://paulgraham.com/vb.html)
 - [11 must read books that will make you a better learner](http://www.inc.com/quora/11-must-read-books-that-will-make-you-a-better-learner.html)
 - [the original net artists](http://motherboard.vice.com/read/the-original-net-artists)
+- [resistance is futile? the impact of disruptive protest in the 'silver age of permanent austerity'](http://ser.oxfordjournals.org/content/13/1/5.full.pdf#page=1&view=FitH)
 
 ## blog posts
 - [the three laws of interaction design](https://medium.com/user-experience-design-1/the-three-laws-of-interaction-design-11912c4bf5dc#.seoso5sl5)

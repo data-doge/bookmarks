@@ -187,6 +187,7 @@
 
 ## documentaries
 - [vaporwave: a brief history](https://www.youtube.com/watch?v=PdpP0mXOlWM)
+- [aljazeera::rebelgeeks::steal_from_the_capitalists](http://www.aljazeera.com/programmes/rebelgeeks/2015/11/technology-steal-capitalists-151110150718814.html)
 
 ## unsorted
 - [demoscene](https://en.wikipedia.org/wiki/Demoscene)

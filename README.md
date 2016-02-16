@@ -168,6 +168,7 @@
 - [we make excuses for boys and subtly encourage girls to do the same](http://speakola.com/ideas/ken-lay-violence-against-women-2015)
 - [i play the javascript](https://www.youtube.com/watch?v=NL0nb8A8FDM)
 - [ryan dahl: og node presentation](https://www.youtube.com/watch?v=U8TGJhQtEtM)
+- [10 ways to have a better conversation](http://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=talk&utm_term=social-science)
 
 ## reading list
 - [Resolving the awkward paradox in Frederic Laloux’s Reinventing Organisations](https://medium.com/@tomnixon/resolving-the-awkward-paradox-in-frederic-laloux-s-reinventing-organisations-f2031080ea02#.y12bo3dff)

@@ -157,6 +157,7 @@
 - [the resolution of the bitcoin experiment](https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7#.wnqxl8og9)
 - [beyond 'dreamers vs doers' -- full circle leadership](https://medium.com/enspiral-tales/beyond-dreamers-vs-doers-full-circle-leadership-869557da1248#.g4apdgi5e)
 - [entrepreneurship means i give up](https://morecrows.wordpress.com/2016/01/15/entrpreneurship-means-i-give-up/)
+- [sex and startups](https://medium.com/@sexandstartups/sex-startups-53f2f63ded49#.5vmlawjro)
 
 ## talks / presentations
 - [greetings fellow alienated subject of late capitalism](https://vimeo.com/128030788)

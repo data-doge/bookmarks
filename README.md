@@ -158,6 +158,7 @@
 - [beyond 'dreamers vs doers' -- full circle leadership](https://medium.com/enspiral-tales/beyond-dreamers-vs-doers-full-circle-leadership-869557da1248#.g4apdgi5e)
 - [entrepreneurship means i give up](https://morecrows.wordpress.com/2016/01/15/entrpreneurship-means-i-give-up/)
 - [sex and startups](https://medium.com/@sexandstartups/sex-startups-53f2f63ded49#.5vmlawjro)
+- [Design Patterns for new Coliving Spaces](https://medium.com/embassy-network/starting-an-embassy-coliving-house-3c87be762c8b#.oqefxr6sr)
 
 ## talks / presentations
 - [greetings fellow alienated subject of late capitalism](https://vimeo.com/128030788)

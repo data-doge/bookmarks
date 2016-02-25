@@ -160,6 +160,7 @@
 - [entrepreneurship means i give up](https://morecrows.wordpress.com/2016/01/15/entrpreneurship-means-i-give-up/)
 - [sex and startups](https://medium.com/@sexandstartups/sex-startups-53f2f63ded49#.5vmlawjro)
 - [Design Patterns for new Coliving Spaces](https://medium.com/embassy-network/starting-an-embassy-coliving-house-3c87be762c8b#.oqefxr6sr)
+- [how to run a brainstorm for introverts and extroverts too](http://blog.ted.com/how-to-run-a-brainstorm-for-introverts-and-extroverts-too/?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=ted-blog&utm_term=business)
 
 ## talks / presentations
 - [greetings fellow alienated subject of late capitalism](https://vimeo.com/128030788)

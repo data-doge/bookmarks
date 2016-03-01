@@ -8,6 +8,7 @@
 - [smash the stack](http://smashthestack.org/)
 - [personal finance](https://www.reddit.com/r/personalfinance/comments/3z0rid/need_a_2016_new_years_resolution_watch_these/)
 - [money](https://www.coursera.org/course/money)
+- [klangmeister](http://ctford.github.io/klangmeister/)
 
 ## programming
 - [flexboxfroggy](http://flexboxfroggy.com/)

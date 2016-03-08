@@ -109,6 +109,7 @@
 - [xiao xiao](http://portfolio.xiaosquared.com/)
 - [mr doob](http://mrdoob.com/)
 - [nassim nicholas taleb](https://www.wikiwand.com/en/Nassim_Nicholas_Taleb)
+- [paul mason](https://www.wikiwand.com/en/Paul_Mason_(journalist))
 
 ## groups
 - [citizen code](http://www.citizencode.io/)

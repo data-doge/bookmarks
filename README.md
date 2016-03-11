@@ -148,6 +148,7 @@
 - [the original net artists](http://motherboard.vice.com/read/the-original-net-artists)
 - [resistance is futile? the impact of disruptive protest in the 'silver age of permanent austerity'](http://ser.oxfordjournals.org/content/13/1/5.full.pdf#page=1&view=FitH)
 - [debt, defaults, and devaluations: why this market crash is like nothing we've seen before](http://www.telegraph.co.uk/finance/economics/12138466/when-is-the-next-financial-crash-coming-oil-prices-markets-recession.html)
+- [Caitlin Moran: how to start – and win – an argument online](http://www.theguardian.com/books/2016/mar/05/caitlin-moran-start-win-argument-online-moranifesto)
 
 ## blog posts
 - [the three laws of interaction design](https://medium.com/user-experience-design-1/the-three-laws-of-interaction-design-11912c4bf5dc#.seoso5sl5)

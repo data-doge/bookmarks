@@ -133,6 +133,9 @@
 - [remote year](http://www.remoteyear.com/)
 - [share lab](https://labs.rs/en/)
 - [living economies](http://www.le.org.nz/)
+- [D-CENT](http://dcentproject.eu/)
+- [blue ridge labs @ robin hood](https://labs.robinhood.org/)
+- [procomuns](http://procomuns.net/en/)
 
 ## articles
 - [dan price](http://www.slate.com/blogs/moneybox/2015/10/23/remember_dan_price_of_gravity_payments_who_gave_his_employees_a_70_000_minimum.html)
@@ -200,6 +203,7 @@
 - [throwing rocks at the google bus](http://www.amazon.com/Throwing-Rocks-Google-Bus-Prosperity/dp/1617230170)
 - [ted reading list](http://ideas.ted.com/your-holiday-reading-list-58-books-recommended-by-ted-speakers/?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=ideas-blog&utm_term=humanities)
 - [globalization and its discontents](https://www.wikiwand.com/en/Globalization_and_Its_Discontents)
+- [platform scale](http://www.amazon.com/Platform-Scale-emerging-business-investment-ebook/dp/B015FAOKJ6)
 
 ## videos
 - [trading faces optical illusion](https://video-sjc2-1.xx.fbcdn.net/hvideo-xpf1/v/t42.4659-2/12172649_1051723311527171_879109351_n.mp4?oh=5a25679a902d84625337fa5852dae956&oe=5641CE9E)

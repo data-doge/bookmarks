@@ -161,6 +161,7 @@
 - [Caitlin Moran: how to start – and win – an argument online](http://www.theguardian.com/books/2016/mar/05/caitlin-moran-start-win-argument-online-moranifesto)
 - [minimum viable superorganism](http://www.ribbonfarm.com/2016/02/11/minimum-viable-superorganism/)
 - [my year in san francisco's 2 million secret society startup](https://motherboard.vice.com/read/my-year-in-san-franciscos-2-million-secret-society-startup)
+- [the incredibly true story of renting a friend in tokyo](http://www.afar.com/magazine/the-incredibly-true-story-of-renting-a-friend-in-tokyo?src=longreads&mc_cid=72e19b7686&mc_eid=4901ec4058)
 
 ## blog posts
 - [the three laws of interaction design](https://medium.com/user-experience-design-1/the-three-laws-of-interaction-design-11912c4bf5dc#.seoso5sl5)

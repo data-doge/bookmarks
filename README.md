@@ -35,6 +35,7 @@
 - [three little circles](http://bost.ocks.org/mike/circles/)
 - [the visual display of quantitative information](http://www.edwardtufte.com/tufte/books_vdqi)
 - [a day in the life of americans](http://flowiangdata.com/2015/12/15/a-day-in-the-life-of-americans/)
+- [cytoscape.js](http://js.cytoscape.org/)
 
 ## threejs
 - [starmap](https://robertsspaceindustries.com/starmap)

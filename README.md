@@ -165,6 +165,7 @@
 - [my year in san francisco's 2 million secret society startup](https://motherboard.vice.com/read/my-year-in-san-franciscos-2-million-secret-society-startup)
 - [the incredibly true story of renting a friend in tokyo](http://www.afar.com/magazine/the-incredibly-true-story-of-renting-a-friend-in-tokyo?src=longreads&mc_cid=72e19b7686&mc_eid=4901ec4058)
 - [chicken soup for the neoliberal soul](https://www.jacobinmag.com/2014/01/chicken-soup-for-the-neoliberal-soul/)
+- [how to hack an election](http://www.bloomberg.com/features/2016-how-to-hack-an-election/)
 
 ## blog posts
 - [the three laws of interaction design](https://medium.com/user-experience-design-1/the-three-laws-of-interaction-design-11912c4bf5dc#.seoso5sl5)

@@ -138,6 +138,7 @@
 - [blue ridge labs @ robin hood](https://labs.robinhood.org/)
 - [procomuns](http://procomuns.net/en/)
 - [camplight](https://camplight.net/)
+- [sf bay area renter's foundation](http://www.sfbarf.org/)
 
 ## articles
 - [dan price](http://www.slate.com/blogs/moneybox/2015/10/23/remember_dan_price_of_gravity_payments_who_gave_his_employees_a_70_000_minimum.html)

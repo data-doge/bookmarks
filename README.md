@@ -227,3 +227,4 @@
 - [rasterbator](http://rasterbator.net/)
 - [kibbutz samar](http://www.kibbutz-samar.com/)
 - [wiki surveys - open and quantifiable social data collection](http://arxiv.org/pdf/1202.0500v2.pdf)
+- [raft: understandable distributed consensus](http://thesecretlivesofdata.com/raft/)

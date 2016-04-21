@@ -229,3 +229,4 @@
 - [wiki surveys - open and quantifiable social data collection](http://arxiv.org/pdf/1202.0500v2.pdf)
 - [raft: understandable distributed consensus](http://thesecretlivesofdata.com/raft/)
 - [five thirty eight](http://fivethirtyeight.com/contributors/nate-silver/)
+- [feminism is a ramp](http://hvngrymag.com/2016/04/21/feminism-is-a-ramp/)

@@ -139,6 +139,7 @@
 - [procomuns](http://procomuns.net/en/)
 - [camplight](https://camplight.net/)
 - [sf bay area renter's foundation](http://www.sfbarf.org/)
+- [stanford - center on democracy, development, and the rule of law - liberation technology program](http://cddrl.fsi.stanford.edu/libtech/)
 
 ## businesses
 

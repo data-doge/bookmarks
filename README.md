@@ -26,6 +26,7 @@
 - [no more mvc frameworks](http://www.infoq.com/articles/no-more-mvc-frameworks)
 - [so you want to build a generator](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator)
 - [organic software](https://prezi.com/rvys3xsdyovx/organic-software/)
+- [neural doodles](https://nucl.ai/blog/neural-doodles/)
 
 ## psychology
 - [rumination](https://www.wikiwand.com/en/Rumination_(psychology))

@@ -113,6 +113,7 @@
 
 ## tools 
 - [local tunnel](https://localtunnel.me/)
+- [syntaxnet](http://googleresearch.blogspot.com/2016/05/announcing-syntaxnet-worlds-most.html)
 
 ## people
 - [sam lavigne](http://lav.io/)

@@ -125,6 +125,7 @@
 - [nassim nicholas taleb](https://www.wikiwand.com/en/Nassim_Nicholas_Taleb)
 - [paul mason](https://www.wikiwand.com/en/Paul_Mason_(journalist))
 - [nikoladze](http://nikoladze.eu/creations)
+- [miranda july](http://www.mirandajuly.com/)
 
 ## groups
 - [citizen code](http://www.citizencode.io/)

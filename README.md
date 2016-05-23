@@ -229,6 +229,7 @@
 
 ## videos
 - [trading faces optical illusion](https://video-sjc2-1.xx.fbcdn.net/hvideo-xpf1/v/t42.4659-2/12172649_1051723311527171_879109351_n.mp4?oh=5a25679a902d84625337fa5852dae956&oe=5641CE9E)
+- [hyper reality](https://vimeo.com/166807261)
 
 ## documentaries
 - [vaporwave: a brief history](https://www.youtube.com/watch?v=PdpP0mXOlWM)

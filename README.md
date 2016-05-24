@@ -183,6 +183,7 @@
 - [the incredibly true story of renting a friend in tokyo](http://www.afar.com/magazine/the-incredibly-true-story-of-renting-a-friend-in-tokyo?src=longreads&mc_cid=72e19b7686&mc_eid=4901ec4058)
 - [chicken soup for the neoliberal soul](https://www.jacobinmag.com/2014/01/chicken-soup-for-the-neoliberal-soul/)
 - [how to hack an election](http://www.bloomberg.com/features/2016-how-to-hack-an-election/)
+- [this is why we have women-only spaces, and why i don't want to hear your complaints](http://www.dailylife.com.au/news-and-views/this-is-why-we-have-womenonly-spaces-and-why-i-dont-want-to-hear-your-complaints-20160523-gp253k.html)
 
 ## blog posts
 - [the three laws of interaction design](https://medium.com/user-experience-design-1/the-three-laws-of-interaction-design-11912c4bf5dc#.seoso5sl5)

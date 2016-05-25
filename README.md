@@ -30,6 +30,8 @@
 
 ## react 
 
+- [going isomorphic with react](https://bensmithett.github.io/going-isomorphic-with-react/#/)
+
 ## psychology
 - [rumination](https://www.wikiwand.com/en/Rumination_(psychology))
 - [explanatory style](https://www.wikiwand.com/en/Explanatory_style)

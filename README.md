@@ -204,6 +204,7 @@
 - [sex and startups](https://medium.com/@sexandstartups/sex-startups-53f2f63ded49#.5vmlawjro)
 - [Design Patterns for new Coliving Spaces](https://medium.com/embassy-network/starting-an-embassy-coliving-house-3c87be762c8b#.oqefxr6sr)
 - [how to run a brainstorm for introverts and extroverts too](http://blog.ted.com/how-to-run-a-brainstorm-for-introverts-and-extroverts-too/?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=ted-blog&utm_term=business)
+- [how technology hijacks peoples minds ](https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.mbk3pe6db)
 
 ## talks / presentations
 - [greetings fellow alienated subject of late capitalism](https://vimeo.com/128030788)

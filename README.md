@@ -131,6 +131,7 @@
 - [paul mason](https://www.wikiwand.com/en/Paul_Mason_(journalist))
 - [nikoladze](http://nikoladze.eu/creations)
 - [miranda july](http://www.mirandajuly.com/)
+- [brock kenzler](http://brockkenzler.com/)
 
 ## groups
 - [citizen code](http://www.citizencode.io/)

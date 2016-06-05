@@ -256,3 +256,5 @@
 - [2013 -- year in interactive storytelling](http://www.nytimes.com/newsgraphics/2013/12/30/year-in-interactive-storytelling/)
 - [green honey](http://muyueh.com/greenhoney/)
 - [marpi](http://new.marpi.pl/)
+- [10 ways your social justice work might be inaccessible and elitist (and why that's a problem](http://everydayfeminism.com/2016/05/inaccessible-elitist-activism/)
+

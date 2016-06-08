@@ -259,3 +259,4 @@
 - [10 ways your social justice work might be inaccessible and elitist (and why that's a problem](http://everydayfeminism.com/2016/05/inaccessible-elitist-activism/)
 - [linux journey](https://linuxjourney.com/)
 - [san francisco league of pissed off voters](http://www.theleaguesf.org/)
+- [how to use open source and shut the fuck up at the same time](https://hueniverse.com/2016/01/26/how-to-use-open-source-and-shut-the-fuck-up-at-the-same-time/)

@@ -95,6 +95,7 @@
 - [mumble](https://itunes.apple.com/us/app/mumble/id443472808?mt=8)
 - [gapminder](http://www.gapminder.org/)
 - [you feel like shit](http://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play)
+- [mini bar](https://minibardelivery.com/)
 
 ## websites
 - [music for programming](http://musicforprogramming.net/)
@@ -119,6 +120,11 @@
 ## tools 
 - [local tunnel](https://localtunnel.me/)
 - [syntaxnet](http://googleresearch.blogspot.com/2016/05/announcing-syntaxnet-worlds-most.html)
+- [little snitch](https://www.obdev.at/products/littlesnitch/index.html)
+- [quartz composer](https://www.wikiwand.com/en/Quartz_Composer)
+- [origami](https://facebook.github.io/origami/)
+- [principle](http://principleformac.com/)
+- [jira](https://www.atlassian.com/software/jira)
 
 ## people
 - [sam lavigne](http://lav.io/)

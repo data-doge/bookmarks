@@ -269,3 +269,4 @@
 - [technical debt of the west](http://www.meltingasphalt.com/technical-debt-of-the-west/)
 - [l-systems](https://www.wikiwand.com/en/L-system)
 - [token-based authentication with ruby-on-rails 5 api](http://tutorials.pluralsight.com/ruby-ruby-on-rails/token-based-authentication-with-ruby-on-rails-5-api)
+- [building the perfect rails 5 api only app](http://sourcey.com/building-the-prefect-rails-5-api-only-app/)

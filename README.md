@@ -268,3 +268,4 @@
 - [how to use open source and shut the fuck up at the same time](https://hueniverse.com/2016/01/26/how-to-use-open-source-and-shut-the-fuck-up-at-the-same-time/)
 - [technical debt of the west](http://www.meltingasphalt.com/technical-debt-of-the-west/)
 - [l-systems](https://www.wikiwand.com/en/L-system)
+- [token-based authentication with ruby-on-rails 5 api](http://tutorials.pluralsight.com/ruby-ruby-on-rails/token-based-authentication-with-ruby-on-rails-5-api)

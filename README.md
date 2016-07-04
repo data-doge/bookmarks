@@ -138,6 +138,8 @@
 - [nikoladze](http://nikoladze.eu/creations)
 - [miranda july](http://www.mirandajuly.com/)
 - [brock kenzler](http://brockkenzler.com/)
+- [nathan schneider](http://nathanschneider.info/)
+- [nancy lublin](https://www.wikiwand.com/en/Nancy_Lublin)
 
 ## groups
 - [citizen code](http://www.citizencode.io/)

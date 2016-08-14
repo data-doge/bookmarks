@@ -273,3 +273,4 @@
 - [token-based authentication with ruby-on-rails 5 api](http://tutorials.pluralsight.com/ruby-ruby-on-rails/token-based-authentication-with-ruby-on-rails-5-api)
 - [building the perfect rails 5 api only app](http://sourcey.com/building-the-prefect-rails-5-api-only-app/)
 - [ingrid burrington](http://www.maskmagazine.com/the-hacker-issue/work/ingrid-burrington)
+- [arguman](http://en.arguman.org/about)

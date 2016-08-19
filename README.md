@@ -164,6 +164,7 @@
 - [stanford - center on democracy, development, and the rule of law - liberation technology program](http://cddrl.fsi.stanford.edu/libtech/)
 - [camplight](https://camplight.net/)
 - [jam3](http://www.jam3.com/)
+- [verynice](http://verynice.co/)
 
 ## businesses
 

@@ -276,3 +276,4 @@
 - [ingrid burrington](http://www.maskmagazine.com/the-hacker-issue/work/ingrid-burrington)
 - [arguman](http://en.arguman.org/about)
 - [kj-method](https://methods.18f.gov/discover/kj-method/)
+- [usecanvas](https://usecanvas.com/)

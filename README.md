@@ -140,6 +140,7 @@
 - [brock kenzler](http://brockkenzler.com/)
 - [nathan schneider](http://nathanschneider.info/)
 - [nancy lublin](https://www.wikiwand.com/en/Nancy_Lublin)
+- [ryan dahl](http://tinyclouds.org/)
 
 ## groups
 - [citizen code](http://www.citizencode.io/)

@@ -142,6 +142,7 @@
 - [nancy lublin](https://www.wikiwand.com/en/Nancy_Lublin)
 - [ryan dahl](http://tinyclouds.org/)
 - [UCNV](http://ucnv.org/)
+- [anastasia clarke](http://anastasiaclarke.info/)
 
 ## groups
 - [citizen code](http://www.citizencode.io/)

@@ -27,6 +27,7 @@
 - [so you want to build a generator](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator)
 - [organic software](https://prezi.com/rvys3xsdyovx/organic-software/)
 - [neural doodles](https://nucl.ai/blog/neural-doodles/)
+- [What's new in CPUs since the 80s and how does it affect programmers?](https://danluu.com/new-cpu-features/)
 
 ## react 
 
